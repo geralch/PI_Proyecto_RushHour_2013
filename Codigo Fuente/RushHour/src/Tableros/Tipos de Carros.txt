@@ -1,0 +1,16 @@
+tipo 1 = rojo 2
+tipo 2 = amarillo 3
+tipo 3 = verdeclaro 2
+tipo 4 = naranja 2
+tipo 5 = azulclaro 2
+tipo 6 = violetaclaro 3
+tipo 7 = verdeoscuro 2
+tipo 8 = azuloscuro 3
+tipo 9 = verdeoscuro 3
+tipo 10 = rosado 2
+tipo 11 = violetaoscuro 2
+tipo 12 = negro 2
+tipo 13 = cafeclaro 2
+tipo 14 = amarillo 2
+tipo 15 = cadeoscuro 2
+tipo 16 = verdecafe 2
